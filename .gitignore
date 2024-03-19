@@ -1,0 +1,8 @@
+node_modules
+cdc-service-account-keypair.json
+stash.js 
+
+*.env
+
+dwnld.pdf
+page.html
